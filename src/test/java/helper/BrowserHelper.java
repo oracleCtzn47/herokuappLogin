@@ -18,6 +18,8 @@ public class BrowserHelper {
 		if(browser.equalsIgnoreCase("firefox")) {
 			
 			
+			
+			
 			/*Set property can also be set as a system variable/// (as in to run in teamcity)*/
 			
 			/*You will need to set your own path to this exe*/
